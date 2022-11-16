@@ -11,7 +11,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <main className={styles.main}>EMRULLAH MALKOÇ</main>
+      <main className={styles.main}>EMRULLAHMALKOÇ</main>
 
       <footer className={styles.footer}>
         <a
